@@ -1,4 +1,0 @@
-hrnet_mism:
-https://drive.google.com/file/d/1NYYimMgYXA6eVa0Zxc0kbUGOGhLOAQ6j/view?usp=sharing
-resnet_mism:
-https://drive.google.com/file/d/1oBoQroMpICeln_9XIZn0eka85y_BTEQL/view?usp=sharing

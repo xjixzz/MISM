@@ -2,7 +2,7 @@
 gt_depths.npz
 *.pth
 *.out
-./*.txt
+*.txt
 pretrained_models/
 log/
 *.tar
